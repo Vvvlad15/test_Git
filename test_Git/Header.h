@@ -9,7 +9,7 @@ void mission()
 	{
 		arr[i] = rand() % 10;
 	}
-	cout << "Числа: ";
+	cout << "ch: ";
 	for (int i = 0; i < size; i++)
 	{
 		cout << arr[i] << " ";

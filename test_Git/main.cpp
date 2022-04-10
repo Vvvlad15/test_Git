@@ -9,8 +9,8 @@ int main()
 	cout << "\tЗадание 1\n";
 	mission;
 	cout << "\n\tЗадание 2\n";
-	mission_1;
+	mission1;
 	cout << "\n\tЗадание 3\n";
 	cout << "Числа: ";
-	mission_2;
+	mission2;
 }
